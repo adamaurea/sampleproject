@@ -2,7 +2,6 @@ package sampleproject;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
